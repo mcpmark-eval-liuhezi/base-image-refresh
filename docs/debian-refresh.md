@@ -23,10 +23,10 @@ Dates are the initial x.0 releases as stated on each release's own page, not poi
 
 Pinned upstream stack: `huggingface/transformers`
 
-- Open pull requests (total): **612**
+- Open pull requests (total): **619**
 - Open pull requests mentioning "llama": **81**
-- "llama" share of open PRs: 81 / 612 = 13.23529411764706% ≈ **13.2%**
-- Triage capacity: 5 PRs/day, 7 days a week -> 612 / 5 = 122.4 days = 122.4 / 7 = 17.485714285714288 weeks ≈ **17.5 weeks** to clear the entire open backlog.
+- "llama" share of open PRs: 81 / 619 = 13.0856…% ≈ **13.1%**
+- Triage capacity: 5 PRs/day, 7 days a week -> 619 / 5 = 123.8 days = 123.8 / 7 = **17.7 weeks** to clear the entire open backlog.
 
 Takeaway: the open backlog is large and llama-related work accounts for a meaningful slice of it, so the refresh window should plan for dependency churn.
 

@@ -1,2 +1,3 @@
-# base-image-refresh
-Annual base-image refresh review — Debian cadence and upstream PR load research
+# Annual base-image refresh review
+
+Counts, dates, and links for the annual base-image refresh review.
